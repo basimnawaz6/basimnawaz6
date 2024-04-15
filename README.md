@@ -3,7 +3,6 @@
 - 🌱 I’m currently doing my BS Software Engineering From Pucit
 - 💞️ I’m looking to collaborate on ...
 - 📫 Contact me basimnawaz6@gmail.com
-<script src="https://tryhackme.com/badge/2898110"></script>
 
 <!---
 basimnawaz6/basimnawaz6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
