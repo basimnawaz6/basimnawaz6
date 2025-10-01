@@ -59,15 +59,11 @@
 
 ### 📊 GitHub Stats:
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=basimnawaz6&show_icons=true&locale=en&theme=github_dark" alt="GitHub Stats" />
-</p>
-
-<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=basimnawaz6&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Top Languages" />
 </p>
 
 <p>
-  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2898110" style='border:none;'></iframe>
+  <img src="https://github-readme-stats.vercel.app/api?username=basimnawaz6&show_icons=true&locale=en&theme=github_dark" alt="GitHub Stats" />
 </p>
 
 <p>
