@@ -3,7 +3,7 @@
   Cyberpunk × macOS Fusion • Hacker Vibe • Developer Soul
 -->
 
-<style>
+<!-- style>
 @keyframes glitch {
   0% { content: "█"; }
   20% { content: "▓"; }
@@ -21,10 +21,10 @@
   content: "█";
   animation: glitch 2s steps(1) forwards;
 }
-</style>
+</style-->
 
 <p align="center">
-  <b><span style="font-size: 28px; font-family: 'Fira Code', monospace; color: #C9D1D9;">Hi 👋, I'm Basim Nawaz</span></b>
+  <b><span style="font-size: 38px; font-family: 'Fira Code', monospace; color: #C9D1D9;">Hi 👋, I'm Basim Nawaz</span></b>
 </p>
 
 <p align="center">
