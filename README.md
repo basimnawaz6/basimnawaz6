@@ -24,7 +24,9 @@
 </style-->
 
 <p align="center">
+  <h2>
   <b><span style="font-size: 38px; font-family: 'Fira Code', monospace; color: #C9D1D9;">Hi 👋, I'm Basim Nawaz</span></b>
+  </h2>
 </p>
 
 <p align="center">
@@ -46,7 +48,7 @@
 ### 🌟 Elite Highlights
 - 🥇 *<span class="animate-hover" data-text="Top 2% on TryHackMe">Top 2% on TryHackMe</span>* | *<span class="animate-hover" data-text="ICPC Finalist 2025">ICPC Participant </span>*
 - 🛡 *<span class="animate-hover" data-text="Penetration Testing">Penetration Testing</span>* • *<span class="animate-hover" data-text="Vulnerability Assessment">Vulnerability Assessment</span>* • *<span class="animate-hover" data-text="SOC Operations">SOC Operations</span>*
-- 💡 *<span class="animate-hover" data-text="Teaching Assistant @ PUCIT">Teaching Assistant @ PUCIT</span>* – Digital Logic Design & Programming Fundamentals
+- 💡 *<span class="animate-hover" data-text="Teaching Assistant @ PUCIT">Teaching Assistant @ PUCIT</span>*
 - 👥 *<span class="animate-hover" data-text="2500+ learners">2500+ learners</span>* mentored via *<span class="animate-hover" data-text="Tech Hierarchy">Tech Hierarchy</span>*
 
 ---
