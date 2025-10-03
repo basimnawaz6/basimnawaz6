@@ -32,7 +32,7 @@
 </p>
 
 <h3 align="center">
-  🔐 <span class="animate-hover" data-text="Ethical Hacker">Ethical Hacker</span> • 💻 <span class="animate-hover" data-text="Software Engineer">Software Engineer</span> • 🚀 Founder of <a href="https://linkedin.com/company/techhierarchy">Tech Hierarchy</a>
+  🔐 <span class="animate-hover" data-text="Ethical Hacker">Ethical Hacker</span> • 💻 <span class="animate-hover" data-text="Software Engineer">Software Engineer</span> • 🚀 Founder of <a href="https://linkedin.com/company/techierarchy">Tech Hierarchy</a>
 </h3>
 
 <p align="center">
