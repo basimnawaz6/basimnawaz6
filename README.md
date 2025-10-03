@@ -23,11 +23,9 @@
 }
 </style-->
 
-<p align="center">
-  <h2>
+<h2 align="center">
   <b><span style="font-size: 38px; font-family: 'Fira Code', monospace; color: #C9D1D9;">Hi 👋, I'm Basim Nawaz</span></b>
-  </h2>
-</p>
+</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&width=600&lines=Cybersecurity+Analyst+%26+Software+Developer;Penetration+Tester+%7C+Competitive+Programmer;Building+secure+systems+from+Pakistan;ICPC+Finalist+%7C+TryHackMe+Top+2%25" alt="Dynamic Titles" />
