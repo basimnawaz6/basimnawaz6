@@ -28,7 +28,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&width=600&lines=Cybersecurity+Analyst+%26+Software+Developer;Penetration+Tester+%7C+Competitive+Programmer;Building+secure+systems+from+Pakistan;ICPC+Finalist+%7C+TryHackMe+Top+2%25" alt="Dynamic Titles" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&width=600&lines=Cybersecurity+Analyst+%26+Software+Developer;Penetration+Tester+%7C+Programmer;Building+secure+systems;" alt="Dynamic Titles" />
 </p>
 
 <h3 align="center">
